@@ -4,7 +4,7 @@ group 42 ML assignment
 
 ## prerequisite
 
-none - Used the libraries are offered directly from Google Colab
+none - Used libraries that are offered from Google Colab
 
 Enable Google free tier GPU to run the code 
 
