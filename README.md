@@ -1,29 +1,17 @@
-# Foobar
+# Machine-Learning-CZ4041
 
-Foobar is a Python library for dealing with word pluralization.
+group 42 ML assignment
 
-## Installation
+## prerequisite
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+none - Used the libraries are offered directly from Google Colab
 
-```bash
-pip install foobar
-```
+Enable Google free tier GPU to run the code 
 
-## Usage
+disclaimer- project didnt ran locally so  i did not know what version of certain libraries should be installed in local machine before running the code. 
 
-```python
-import foobar
+## Running the code on code 
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+1)upload test and train images to Google Drive 
+2)Blind google drive to Colab
+3)Run code 
